@@ -39,29 +39,34 @@ Pandas Dataframes of encoded data for ML:
 ## Project Structure 
 ```bash
 __data/
-|   |_liver/
-|   |   |_generals
-|   |   |_count_matrix/
-|   |   |_tpm_matrix/
-|   |   |_DESeq/
-|   |   |_plot/
-|   |_pancreas/
-|   |   |_generals
-|   |   |_count_matrix/
-|   |   |_tpm_matrix/
-|   |   |_DESeq/
-|   |   |_plot/
-|   |_generals
+|   |-- liver/
+|   |   |-- generals
+|   |   |-- count_matrix/
+|   |   |-- tpm_matrix/
+|   |   |-- DESeq/
+|   |   |__ plot/
+|   |
+|   |-- pancreas/
+|   |   |-- generals
+|   |   |-- count_matrix/
+|   |   |-- tpm_matrix/
+|   |   |-- DESeq/
+|   |   |__ plot/
+|   |
+|   |__ generals
 |
 |__local/
-    |_config/
-    |   |_setup_venv
-    |_src
-    |   |_R/python3/bash_scripts
-    |_bin/
-    |   |_symb_links_to_src
-    |_notebooks
-        |_Data_overview.ipynb
-        |_DESeq_data_prep.ipynb
-        |_Toy_ML_setup_RNA_data.ipynb
+    |-- config/
+    |   |__ setup_venv
+    |
+    |-- src
+    |   |__ R/python3/bash_scripts
+    |
+    |-- bin/
+    |   |__ symb_links_to_src
+    |
+    |__ notebooks
+        |-- Data_overview.ipynb
+        |-- DESeq_data_prep.ipynb
+        |__ Toy_ML_setup_RNA_data.ipynb
 ```
