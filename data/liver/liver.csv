@@ -1,0 +1,48 @@
+SAMPID_liver,Sex,Age.Bracket,Pathology.Categories_liver,Fat.Percentage_liver,Fat.Category
+GTEX-11EQ9-0526-SM-5A5JZ,male,30-39,"nodularity, steatosis",27.46831037,thin
+GTEX-11GSP-0626-SM-5986T,female,60-69,congestion,26.62369718,thin
+GTEX-11TT1-1726-SM-5EQLJ,male,20-29,,21.95742104,thin
+GTEX-12WSD-1426-SM-5GCN9,female,60-69,no_abnormalities,26.7663712,thin
+GTEX-131XE-0326-SM-5LZVO,male,50-59,,26.6506511,thin
+GTEX-13SLX-1226-SM-5S2Q6,female,50-59,"fibrosis, inflammation",23.64658742,thin
+GTEX-144GM-1326-SM-5LU5E,male,20-29,no_abnormalities,25.76888009,thin
+GTEX-148VI-0626-SM-5TDDH,female,60-69,,29.97617747,thin
+GTEX-14AS3-0126-SM-5Q5F4,female,40-49,,18.12915725,thin
+GTEX-14PJO-1726-SM-68719,male,60-69,congestion,20.02570159,thin
+GTEX-15DYW-1326-SM-6LPIV,female,60-69,"atrophy, congestion",29.71202355,thin
+GTEX-15ER7-1826-SM-6LLI7,female,20-29,congestion,26.57175375,thin
+GTEX-17HHE-0126-SM-79398,male,50-59,steatosis,23.06007835,thin
+GTEX-18A66-2026-SM-7189C,male,60-69,congestion,23.37305041,thin
+GTEX-18A7A-1526-SM-72D69,female,50-59,steatosis,21.91655757,thin
+GTEX-1B932-1426-SM-793AN,female,40-49,"congestion, steatosis",19.22045121,thin
+GTEX-1CAMQ-1426-SM-7MKFL,male,40-49,congestion,27.436719500000002,thin
+GTEX-1GN1U-0926-SM-9WPPY,female,50-59,congestion,25.35431122,thin
+GTEX-O5YT-0826-SM-3TW8N,male,20-29,,27.17329216,thin
+GTEX-OOBJ-0826-SM-3NB2K,male,60-69,steatosis,25.97442502,thin
+GTEX-PX3G-0826-SM-48TZS,female,20-29,,20.04798201,thin
+GTEX-Q734-0326-SM-48U15,female,40-49,"cirrhosis, fibrosis, hepatitis",27.83062599,thin
+GTEX-QESD-2026-SM-447BI,male,20-29,,19.68987758,thin
+GTEX-R53T-0326-SM-48FEC,female,50-59,congestion,18.39786171,thin
+GTEX-XXEK-1126-SM-4BRUX,male,50-59,steatosis,21.07196317,thin
+GTEX-YB5E-0326-SM-5IFHU,male,40-49,necrosis,17.82918309,thin
+GTEX-ZF2S-3026-SM-4WWCH,female,50-59,,21.29651613,thin
+GTEX-132AR-0426-SM-5IFH8,female,50-59,"fibrosis, steatosis",71.04103655,fat
+GTEX-13FTW-1126-SM-5J2NV,male,40-49,"fibrosis, steatosis",58.40273202,fat
+GTEX-146FH-1526-SM-5NQBU,female,50-59,"fibrosis, hepatitis, inflammation, steatosis",60.97296321,fat
+GTEX-1AMFI-0826-SM-731DV,female,50-59,steatosis,69.72447241,fat
+GTEX-1B933-1226-SM-731DW,female,50-59,steatosis,47.83158365,fat
+GTEX-1C6VQ-1626-SM-79OO1,male,50-59,"congestion, fibrosis, steatosis",57.024628500000006,fat
+GTEX-1GF9X-0426-SM-7MKHN,female,40-49,steatosis,66.31720503,fat
+GTEX-OIZF-0826-SM-3MJGO,male,60-69,steatosis,62.56649953,fat
+GTEX-OIZF-0826-SM-3MJGO,male,60-69,steatosis,62.56649953,fat
+GTEX-OIZF-0826-SM-3MJGO,male,60-69,steatosis,62.56649953,fat
+GTEX-QEL4-1226-SM-447A4,male,50-59,"fibrosis, hepatitis, steatosis",58.76214118,fat
+GTEX-RM2N-1926-SM-48FCU,male,50-59,steatosis,69.37480108,fat
+GTEX-U8XE-1526-SM-4E3HT,male,30-39,"fibrosis, steatosis",45.13914606,fat
+GTEX-WFON-1726-SM-4LVMQ,male,40-49,steatosis,74.94198586,fat
+GTEX-WFON-1726-SM-4LVMQ,male,40-49,steatosis,74.94198586,fat
+GTEX-YEC4-0826-SM-5P9FV,male,40-49,steatosis,58.792592000000006.fat
+GTEX-ZAB5-0426-SM-5CVMI,male,50-59,steatosis,76.17773966,fat
+GTEX-ZF29-2026-SM-4WWB7,female,60-69,steatosis,52.09965358,fat
+GTEX-ZF29-2026-SM-DNZYW,female,60-69,steatosis,52.09965358,fat
+GTEX-ZVP2-0626-SM-51MSO,male,50-59,"cirrhosis, fibrosis, hepatitis",61.63360596,fat
