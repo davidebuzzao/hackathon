@@ -45,26 +45,21 @@ __data/
 |   |   |-- tpm_matrix/
 |   |   |-- DESeq/
 |   |   |__ plot/
-|   |
 |   |-- pancreas/
 |   |   |-- generals
 |   |   |-- count_matrix/
 |   |   |-- tpm_matrix/
 |   |   |-- DESeq/
 |   |   |__ plot/
-|   |
 |   |__ generals
 |
 |__local/
     |-- config/
     |   |__ setup_venv
-    |
     |-- src
     |   |__ R/python3/bash_scripts
-    |
     |-- bin/
     |   |__ symb_links_to_src
-    |
     |__ notebooks
         |-- Data_overview.ipynb
         |-- DESeq_data_prep.ipynb
