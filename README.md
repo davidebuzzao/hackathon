@@ -37,7 +37,8 @@ Pandas Dataframes of encoded data for ML:
 * data/pancreas/pancreas_with_genes.pkl
 
 ## Project Structure 
-|__data/
+```bash
+__data/
 |   |_liver/
 |   |   |_generals
 |   |   |_count_matrix/
@@ -58,4 +59,4 @@ Pandas Dataframes of encoded data for ML:
        |_Data_overview.ipynb
        |_DESeq_data_prep.ipynb
        |_Toy_ML_setup_RNA_data.ipynb
-    
+```
