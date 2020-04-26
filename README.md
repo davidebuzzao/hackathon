@@ -46,6 +46,11 @@ __data/
 |   |   |_DESeq/
 |   |   |_plot/
 |   |_pancreas/
+|   |   |_generals
+|   |   |_count_matrix/
+|   |   |_tpm_matrix/
+|   |   |_DESeq/
+|   |   |_plot/
 |   |_generals
 |
 |__local/
