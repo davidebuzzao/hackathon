@@ -1,7 +1,16 @@
 # BioHackathon2020
 ## Copenhagen Bioinformatics Hackathon 2020
 
+### The Team
+We are a group of master students hailing from the University of Bologna, with backgrounds in Biology, Biotechnologies and Chemistry.
+The members:
+    * Davide Buzzao - MSc Student at the University of Bologna
+    * Nicola De Bernardini - MSc Student at the University of Bologna
+    * Maria Silvia Morlino - MSc Student at the University of Bologna
+    * Vincenzo Palmacci - MSc Student at the University of Bologna
+
 ## Overview
+In our project we performed explorative analyses on the dataset provided in the challenge, in order to look for trends and correlations. We generated all sorts of rough and quick plots, along with performing dimensionality reduction and clustering analyses.
 
 ## Prerequisites
 Python 3.7
@@ -19,7 +28,6 @@ Python 3.7
     * run `source ~/.bashrc; direnv allow ./`
 4. Install python packages:
     * run `pip install -r requirements.txt`
+    * run on R env `BiocManager:install(c("readr","DESeq2","dplyr","ggplot2", "apeglm"))`
 
 ## Key files
-
-## References
