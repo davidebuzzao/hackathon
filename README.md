@@ -56,7 +56,7 @@ __data/
     |_bin/
     |   |_symb_links_to_src
     |_notebooks
-       |_Data_overview.ipynb
-       |_DESeq_data_prep.ipynb
-       |_Toy_ML_setup_RNA_data.ipynb
+        |_Data_overview.ipynb
+        |_DESeq_data_prep.ipynb
+        |_Toy_ML_setup_RNA_data.ipynb
 ```
