@@ -13,7 +13,7 @@ The members:
 In our project we performed explorative analyses on the dataset provided in the challenge, in order to look for trends and correlations. We generated all sorts of rough and quick plots, along with performing dimensionality reduction and clustering analyses.
 
 ## Prerequisites
-Python 3.7
+Python 3.7, R 3.6
 
 ## Installation
 1. Install direnv:
