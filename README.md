@@ -4,10 +4,10 @@
 ### The Team
 We are a group of master students hailing from the University of Bologna, with backgrounds in Biology, Biotechnologies and Chemistry.
 The members:
-    * Davide Buzzao - MSc Student at the University of Bologna
-    * Nicola De Bernardini - MSc Student at the University of Bologna
-    * Maria Silvia Morlino - MSc Student at the University of Bologna
-    * Vincenzo Palmacci - MSc Student at the University of Bologna
+* Davide Buzzao - MSc Student at the University of Bologna
+* Nicola De Bernardini - MSc Student at the University of Bologna
+* Maria Silvia Morlino - MSc Student at the University of Bologna
+* Vincenzo Palmacci - MSc Student at the University of Bologna
 
 ## Overview
 In our project we performed explorative analyses on the dataset provided in the challenge, in order to look for trends and correlations. We generated all sorts of rough and quick plots, along with performing dimensionality reduction and clustering analyses.
