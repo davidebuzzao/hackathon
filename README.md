@@ -10,7 +10,8 @@ The members:
 * Vincenzo Palmacci - MSc Student at the University of Bologna
 
 ## Overview
-In our project we performed explorative analyses on the dataset provided in the challenge, in order to look for trends and correlations. We generated all sorts of rough and quick plots, along with performing dimensionality reduction and clustering analyses.
+In our project we performed explorative analyses on the dataset provided in the challenge, in order to look for trends and correlations. We generated all sorts of rough and quick plots, along with performing dimensionality reduction and clustering analyses. We performed a differential expression analysis on the RNA-seq data. We also trained different machine learning models (random forests and neural networks) to predict the quantity of fat, both from the metadata alone, and from the metadata+the RNA-seq data of differentially expressed genes.
+
 
 ## Prerequisites
 Python 3.7, R 3.6
@@ -39,19 +40,19 @@ Pandas Dataframes of encoded data for ML:
 ## Project Structure 
 ```bash
 __data/
+|   |-- generals
 |   |-- liver/
 |   |   |-- generals
 |   |   |-- count_matrix/
-|   |   |-- tpm_matrix/
 |   |   |-- DESeq/
-|   |   |__ plot/
-|   |-- pancreas/
-|   |   |-- generals
-|   |   |-- count_matrix/
-|   |   |-- tpm_matrix/
-|   |   |-- DESeq/
-|   |   |__ plot/
-|   |__ generals
+|   |   |-- plot/
+|   |   |__ tpm_matrix/
+|   |__ pancreas/
+|       |-- generals
+|       |-- count_matrix/
+|       |-- DESeq/
+|       |-- plot/
+|       |__ tpm_matrix/
 |
 |__local/
     |-- config/
